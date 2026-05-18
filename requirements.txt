@@ -1,0 +1,8 @@
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+ipykernel>=6.0
+nbclient>=0.8
+nbformat>=5.9
+openpyxl>=3.1
