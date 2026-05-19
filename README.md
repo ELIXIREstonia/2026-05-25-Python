@@ -17,7 +17,7 @@ The course is designed for learners who are new to Python or still building conf
 | 14:10 - 14:25 | Break |
 | 14:25 - 15:25 | Hands-on session |
 
-Notebook: [Python_for_beginners.ipynb](Python_for_beginners.ipynb)
+Notebook: [01_python_programming_basics.ipynb](01_python_programming_basics.ipynb)
 
 ### Day 2 - Data Visualisation and Data Handling with Python
 
@@ -31,14 +31,8 @@ Notebook: [Python_for_beginners.ipynb](Python_for_beginners.ipynb)
 
 Notebooks:
 
-- [Pandas.ipynb](Pandas.ipynb)
-- [Matplotlib.ipynb](Matplotlib.ipynb) - now a Seaborn-focused visualisation workbook
-
-## Recommended Day 2 Balance
-
-Use roughly 3 hours for pandas and 1.5 hours for visualisation rather than a strict 3.5/1 split or an even half-day split.
-
-Reasoning: the follow-up statistics course expects participants to be comfortable reading and manipulating data in pandas, but its exploratory analysis also relies on seaborn-style visualisation. One hour is tight for learners to practise plot choice, grouping, facets, labels, and interpretation. A 3/1.5 split keeps pandas as the backbone while giving enough time for useful visual EDA.
+- [02_tabular_data_with_pandas.ipynb](02_tabular_data_with_pandas.ipynb)
+- [03_exploratory_visualisation_with_seaborn.ipynb](03_exploratory_visualisation_with_seaborn.ipynb)
 
 ## Preparation for the Next Course
 
